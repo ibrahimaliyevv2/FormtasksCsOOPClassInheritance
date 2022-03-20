@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{52C2A0AC-E7D9-4A62-99B2-DE31FD502EC8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HumansAndCarTask/Program.cs">
+    <Files>
+      <File FileName="HumansAndCarTask/Program.cs" Line="20" Column="1" />
+      <File FileName="HumansAndCarTask/Human.cs" Line="27" Column="2" />
+      <File FileName="HumansAndCarTask/Car.cs" Line="34" Column="2" />
+      <File FileName="HumansAndCarTask/Student.cs" Line="11" Column="6" />
+      <File FileName="HumansAndCarTask/Teacher.cs" Line="7" Column="6" />
+      <File FileName="HumansAndCarTask/WarrantyStudent.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HumansAndCarTask" expanded="True">
+            <Node name="HumansAndCarTask" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HumansAndCarTask FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

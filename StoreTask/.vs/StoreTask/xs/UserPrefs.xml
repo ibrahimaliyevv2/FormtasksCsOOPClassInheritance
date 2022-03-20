@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3DCD341F-E0BC-4B43-8184-F2B600FDC716}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoreTask/Program.cs">
+    <Files>
+      <File FileName="StoreTask/Program.cs" Line="12" Column="47" />
+      <File FileName="StoreTask/Book.cs" Line="18" Column="6" />
+      <File FileName="StoreTask/Journal.cs" Line="17" Column="6" />
+      <File FileName="StoreTask/Product.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StoreTask" expanded="True">
+            <Node name="StoreTask" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.StoreTask FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
